@@ -1,0 +1,1 @@
+INSERT INTO CLIENTE(nome, telefone, endereco, data_criacao) VALUES ('Dumilde', '999999999', 'Morro Bento Luanda', '2019-05-05 18:00:00')
